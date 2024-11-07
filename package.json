@@ -1,0 +1,12 @@
+{
+  "name": "examentecnico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desarrollo.js",
+  "scripts": {
+    "start": "node desarrollo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daiana Trinidad",
+  "license": "ISC"
+}
